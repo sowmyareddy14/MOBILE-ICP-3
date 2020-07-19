@@ -1,0 +1,4 @@
+#Sat Jul 18 22:18:09 CDT 2020
+base.0=C\:\\Users\\ksowm\\Downloads\\WebMobile-2020Summer-master\\Mobile\\SourceCode\\ICP10\\Source\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
